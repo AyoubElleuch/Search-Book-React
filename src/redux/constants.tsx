@@ -1,0 +1,11 @@
+export const ADD_BOOKS = 'ADD_BOOKS';
+export const FETCHING_BOOKS = 'FETCHING_BOOKS';
+export const FETCH_BOOKS_SUCCESS = 'FETCH_BOOKS_SUCCESS';
+export const FETCH_BOOKS_FAILURE = 'FETCH_BOOKS_FAILURE';
+export const INPUT_CHANGE = 'INPUT_CHANGE';
+export const UPDATE_SELECTED_CATEGORY = 'UPDATE_SELECTED_CATEGORY';
+export const UPDATE_SORTING = 'UPDATE_SORTING';
+export const SELECT_BOOK = 'SELECT_BOOK';
+export const UNSELECT_BOOK = 'UNSELECT_BOOK';
+export const API_KEY = 'AIzaSyBOEdKEDamK8-kQNwNvTIOCMUo3It7tzx4';
+export const NO_COVER_IMAGE = 'https://twinklelearning.in/uploads/noimage.jpg';
